@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChandraShekarK21/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ChandraShekarK21/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
